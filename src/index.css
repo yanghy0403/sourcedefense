@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: PingFangSC-Regular, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #101010;
+}
+
+code {
+  font-family: PingFangSC-Regular, sans-serif;
+}

@@ -1,0 +1,22 @@
+.edit_box{
+    .tags{
+        display: flex;
+        flex-wrap: wrap;
+         button{
+             margin-right: 10px;
+         }
+    }
+    .info{
+        margin-top: 20px;
+    }
+}
+.ant-form-item-control-input-content {
+    > span{
+        padding-left: 0;
+    }
+}
+.cascader{
+    span{
+        // padding-left: 0;
+    }
+}

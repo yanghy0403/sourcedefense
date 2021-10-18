@@ -1,0 +1,13 @@
+.content{
+    width:90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    min-height: 90vh;
+    display: flex;
+    .main{
+        flex-grow: 1;
+        padding-left: 20px;
+    }
+}

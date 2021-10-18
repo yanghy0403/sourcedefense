@@ -1,0 +1,15 @@
+.content{
+    width: 80%;
+    min-height: 80vh;
+    margin: 20px auto 0;
+    background-color: #fff;
+    padding: 20px;
+}
+.form{
+  .ant-form-item-control-input-content{
+       span{
+           width: 100%;
+           padding-left: 0;
+       }
+  }
+}
